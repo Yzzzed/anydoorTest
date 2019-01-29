@@ -16,19 +16,19 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Samaritan89/anydoor.git"
+        "url": "git+https://github.com/Yzzzed/anydoorTest.git"
     },
     "keywords": [
         "static",
         "webserver"
     ],
-    "author": "Samaritan89",
-    "email": "sunluyong@gmail.com",
+    "author": "Yzzzed",
+    "email": "747498885@qq.com",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Samaritan89/anydoor/issues"
+        "url": "https://github.com/Yzzzed/anydoorTest/issues"
     },
-    "homepage": "https://github.com/Samaritan89/anydoor#readme",
+    "homepage": "https://github.com/Yzzzed/anydoorTest#readme",
     "devDependencies": {
         "babel-eslint": "^7.2.3",
         "eslint": "^4.5.0",
